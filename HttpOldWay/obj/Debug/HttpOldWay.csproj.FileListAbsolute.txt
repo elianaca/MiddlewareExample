@@ -1,0 +1,9 @@
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\HttpOldWay\bin\HttpOldWay.dll.config
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\HttpOldWay\bin\HttpOldWay.dll
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\HttpOldWay\bin\HttpOldWay.pdb
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\HttpOldWay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\HttpOldWay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\HttpOldWay\obj\Debug\HttpOldWay.csprojResolveAssemblyReference.cache
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\HttpOldWay\obj\Debug\HttpOldWay.csproj.CoreCompileInputs.cache
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\HttpOldWay\obj\Debug\HttpOldWay.dll
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\HttpOldWay\obj\Debug\HttpOldWay.pdb

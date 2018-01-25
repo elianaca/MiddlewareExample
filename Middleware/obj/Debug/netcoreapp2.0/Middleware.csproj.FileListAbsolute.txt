@@ -1,0 +1,11 @@
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.deps.json
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.runtimeconfig.json
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.runtimeconfig.dev.json
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.dll
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.pdb
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.csprojResolveAssemblyReference.cache
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.AssemblyInfo.cs
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.dll
+C:\Users\ecaraballo\documents\visual studio 2017\Projects\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.pdb
